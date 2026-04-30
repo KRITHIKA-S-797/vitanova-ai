@@ -76,7 +76,7 @@ VitaNova AI is a smart health and wellness assistant designed to help users moni
 ```bash
 pip install -r requirements.txt
 python -m streamlit run app.py
-
+---
 📌 Note
 Food calorie scanner feature is planned for future enhancement
 This application is for awareness only, not a medical diagnosis tool
