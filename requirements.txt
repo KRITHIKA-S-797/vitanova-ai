@@ -1,0 +1,7 @@
+streamlit
+pandas
+requests
+gTTS
+streamlit-mic-recorder
+faster-whisper
+Pillow

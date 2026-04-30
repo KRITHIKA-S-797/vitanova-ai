@@ -1,0 +1,12 @@
+name,max_single_dose,category,risk
+paracetamol,2,common,medium
+ibuprofen,2,common,medium
+aspirin,2,common,medium
+cetirizine,1,common,low
+metformin,2,common,medium
+amoxicillin,2,antibiotic,medium
+fentanyl,0,opioid,critical
+heroin,0,illegal,critical
+cocaine,0,illegal,critical
+lsd,0,illegal,critical
+methamphetamine,0,illegal,critical

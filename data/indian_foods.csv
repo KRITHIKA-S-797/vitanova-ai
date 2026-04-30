@@ -1,0 +1,16 @@
+food_name,category,calories,protein,preference,region,budget,condition
+Idli,Breakfast,120,4,Veg,South,Low,General
+Dosa,Breakfast,180,5,Veg,South,Low,General
+Oats,Breakfast,150,6,Veg,All,Medium,Diabetes
+Upma,Breakfast,200,4,Veg,South,Low,General
+Brown Rice,Lunch,220,5,Veg,All,Medium,Diabetes
+Chapati,Lunch,120,3,Veg,All,Low,General
+Dal,Lunch,130,7,Veg,All,Low,General
+Paneer Curry,Lunch,250,12,Veg,North,Medium,General
+Grilled Chicken,Lunch,280,25,Non-Veg,All,High,General
+Curd Rice,Dinner,210,5,Veg,South,Low,General
+Soup,Dinner,100,3,Veg,All,Low,General
+Salad,Snacks,80,2,Veg,All,Low,General
+Boiled Egg,Snacks,70,6,Non-Veg,All,Low,General
+Sprouts,Snacks,90,7,Veg,All,Low,Diabetes
+Fruit Bowl,Snacks,110,2,Veg,All,Medium,General
