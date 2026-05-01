@@ -1,5 +1,5 @@
 # 🧠 VitaNova AI – Intelligent Health Assistant
-
+http://localhost:8501/
 VitaNova AI is a smart health and wellness assistant designed to help users monitor, understand, and improve their overall well-being using AI-powered insights.
 
 ---
