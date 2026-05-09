@@ -1,96 +1,80 @@
-# 🧠 VitaNova AI – Intelligent Health Assistant
-TRY IT OUT : https://vitanova.streamlit.app/
+# 🧠 VitaNova AI – Intelligent Health & Wellness Assistant
 
+VitaNova AI is an AI-powered health and wellness platform designed to support both **physical health** and **mental well-being** in one place. It helps users check health risks, manage habits, get diet suggestions, check medicine safety, find hospitals, and receive emotional support.
 
-
-VitaNova AI is a smart health and wellness assistant designed to help users monitor, understand, and improve their overall well-being using AI-powered insights.
+🔗 **Live Demo:** https://vitanova.streamlit.app/  
+📌 **GitHub Repo:** https://github.com/KRITHIKA-S-797/vitanova-ai
 
 ---
-📌 Note
-Food calorie scanner feature is planned for future enhancement
-This application is for awareness only, not a medical diagnosis tool
 
-
-👩‍💻 Developed By
-
-Krithika S
-CSE Student
-
-🌟 Project Vision
-
-To build an accessible, intelligent, and multilingual health assistant that helps people take better care of their physical and mental health.
-
-
-## 🚀 Features
+## 🚀 Key Features
 
 ### 🩺 Disease Risk Detector
-- Calculates health risk based on lifestyle inputs
-- Provides instant suggestions
+Predicts health risk based on age, BMI, lifestyle habits, sleep, smoking, alcohol use, sugar intake, family history, and blood pressure.
 
 ### 🧠 Mental Health Check-in
-- Evaluates emotional well-being
-- Gives supportive guidance
+Analyzes mood, stress, sleep, energy, appetite, and social interaction to provide emotional wellness suggestions.
 
-### 🥗 Smart Diet Planner
-- Generates personalized diet plans
-- Based on goal, activity, and region
+### 🥗 AI Smart Diet Planner
+Generates personalized diet plans based on age, goal, diet preference, activity level, region, and health condition.
 
 ### 💊 Medicine Safety Checker
-- Detects unsafe medicines and interactions
-- Provides safety warnings
+Checks medicines for overdose risk, unsafe usage, and possible interactions.
 
 ### 🚨 Emergency SOS
-- Sends emergency alert with location
-- Quick help system
+Allows users to send emergency alerts with location details to a guardian.
 
 ### 🏥 Hospital Finder
-- Finds nearby hospitals and clinics
-- Direct Google Maps integration
+Helps users quickly find nearby hospitals, clinics, and emergency care centers using Google Maps.
 
 ### ✅ Habit Tracker
-- Tracks daily healthy habits
-- Reward system with points
+Tracks healthy habits and rewards users with points to encourage consistency.
 
 ### 📊 Health Dashboard
-- Visualizes health data and progress
+Displays health progress, habit points, mental health logs, disease risk history, and medicine logs.
 
 ### 🏋️ Target Workout
-- Provides exercise suggestions for body parts
-- Includes guided workout videos
+Suggests body-part-based exercises with guided workout videos.
 
-### 🤖 AI Chatbot
-- Answers health-related queries
-- Supports voice + text interaction
+### 🤖 Health Chatbot
+Provides simple health-related guidance through text and voice interaction.
 
 ### 🫂 Stress Buster
-- User can share feelings
-- AI provides emotional support
+Allows users to share stress or feelings and receive supportive AI-based responses.
 
 ---
 
-## 💡 Unique Features
+## 🌟 Why VitaNova AI is Unique
 
-- 🌐 Multilingual UI (English, Tamil, Hindi)
-- 🎤 Voice-enabled chatbot
-- 🧠 AI-powered health insights
-- 🔒 Works offline using local AI (Ollama)
-- ❤️ Combines physical + mental health support
+- Combines **physical health + mental wellness** in one platform
+- Supports **English, Tamil, and Hindi UI**
+- Includes **Emergency SOS + Hospital Finder**
+- Provides **medicine safety checking**
+- Encourages daily habits using **points and dashboard tracking**
+- Uses **AI support for intelligent health guidance**
+- Designed as a student-friendly, accessible, and practical healthcare assistant
 
 ---
 
 ## 🛠️ Tech Stack
 
-- Python
-- Streamlit
-- SQLite Database
-- Ollama (Local AI Models)
-- HTML/CSS (UI support)
+- **Python**
+- **Streamlit**
+- **SQLite**
+- **Pandas**
+- **Requests**
+- **Ollama / Local AI support**
+- **gTTS**
+- **Faster Whisper**
+- **Streamlit Mic Recorder**
+- **HTML/CSS styling inside Streamlit**
 
 ---
 
-## ⚙️ How to Run
+## ⚙️ How to Run Locally
 
 ```bash
+git clone https://github.com/KRITHIKA-S-797/vitanova-ai.git
+cd vitanova-ai
 pip install -r requirements.txt
 python -m streamlit run app.py
----
