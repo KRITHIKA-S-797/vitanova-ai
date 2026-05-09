@@ -81,3 +81,18 @@ git clone https://github.com/KRITHIKA-S-797/vitanova-ai.git
 cd vitanova-ai
 pip install -r requirements.txt
 python -m streamlit run app.py
+
+
+🌐 Deployment Note
+
+The deployed Streamlit version allows users to explore the main app features online.
+Advanced local AI features such as Ollama-based chatbot and voice features work best in the local system setup.
+
+👩‍💻 Developed By
+
+Krithika S
+Computer Science and Engineering Student
+
+💙 Project Vision
+
+To create an accessible, intelligent, and multilingual health companion that helps users take better care of their body and mind.
