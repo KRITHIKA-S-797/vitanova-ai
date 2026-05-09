@@ -4,6 +4,7 @@ VitaNova AI is an AI-powered health and wellness platform designed to support bo
 
 🔗 **Live Demo:** https://vitanova.streamlit.app/  
 📌 **GitHub Repo:** https://github.com/KRITHIKA-S-797/vitanova-ai
+YOUTUBE DEMO LINK:https://youtu.be/hK9Rz-3WIy8?si=6QwYpI5IavQ_RnCS
 
 ---
 
