@@ -1,5 +1,5 @@
 # 🧠 VitaNova AI – Intelligent Health Assistant
-TRY IT OUT : https://improving-doug-vinyl-perceived.trycloudflare.com
+TRY IT OUT : https://vitanova.streamlit.app/
 
 
 
